@@ -1,0 +1,7 @@
+{
+    "authentication": {
+      "apiKey": "SELLIX_API_KEY",
+      "keyValue": "REPLACE_WITH_REAL_SELLIX_API_KEY"
+    }
+  }
+  
